@@ -1,0 +1,16 @@
+# generator info
+name: Simple Lein Clojure Project
+group: atomist-project-templates
+artifact: simple-lein-project
+version: 1.0.11
+
+# backing git repo
+repo: atomist-project-templates/simple-lein-project.git
+branch: master
+sha: 631a577
+
+# parameter values
+package_name: com.puff
+project_name: puff4
+project_description: puff4
+
